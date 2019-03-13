@@ -1,0 +1,66 @@
+* {
+    margin: ;
+    padding: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    background: #34495e;
+}
+
+.app-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem auto;
+    color: #fff;
+}
+
+.app-wrapper p {
+    font-size: 2em;
+}
+
+.app-wrapper input {
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-size: 1em;
+    border-radius: 2px;
+}
+
+.app-wrapper button {
+    background: #3498db;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.app-wrapper button:hover {
+    background: #2980b9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
